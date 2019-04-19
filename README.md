@@ -18,12 +18,12 @@ Pro's | Contra's
  You can **add tags** to your pens, which then become searchable. | The free version of Codepen has **ads** and requires **registration.**
  **Community** has been a huge part of CodePen since the beginning. | **No** way to check **revision history.**
 
-###### Pro's explaining:
+###### Pro's explained:
 1. For example u can use HAML, Markdown, Slim, or even Jade for HTML.
 2. Searching tags such as “Loader” and “Form” brings up tons of helpful inspiration. 
 3. Through comments and sharing, people can give and receive constructive criticism and learn together.
 
-###### Contra's explainig:
+###### Contra's explained:
 
 - [ ]  If u want to make a own private pen u need to pay for a pro version of CodePen otherwise its always public.
 - [ ]  In the free version of CodePen are the best tools not available.
